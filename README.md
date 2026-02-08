@@ -30,10 +30,10 @@ To są technologie, których używam w moich projektach:
 
 ### 📊 Statystyki GitHuba
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=[ifudala2005]&show_icons=true&theme=dark&hide_border=true" alt="Twoje statystyki" />
+<img src="https://github-readme-stats.vercel.app/api?username=ifudala2005&show_icons=true&theme=dark&hide_border=true" alt="Twoje statystyki" />
 </p>
 
 
 
 ### 📫 Kontakt
-[LinkedIn][https://www.linkedin.com/in/igor-fudala/] • [Email](mailto:igor.fudala2005@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/igor-fudala/) • [Email](mailto:igor.fudala2005@gmail.com)
