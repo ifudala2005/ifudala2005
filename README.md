@@ -20,19 +20,10 @@ To są technologie, których używam w moich projektach:
 </p>
 
 
-
 ### 🔭 Nad czym teraz pracuję?
 * 🌱 Uczę się zaawansowanych wzorców w **Terraform**.
 * 🛡️ Przechodzę ścieżki Cybersec na **TryHackMe**.
 * 🐳 Optymalizuję obrazy dockerowe pod kątem bezpieczeństwa.
-
-
-
-### 📊 Statystyki GitHuba
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=(ifudala2005)&show_icons=true&theme=dark&hide_border=true" alt="Twoje statystyki" />
-</p>
-
 
 
 ### 📫 Kontakt
