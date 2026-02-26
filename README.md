@@ -2,7 +2,7 @@
 
 ### 🛡️ Aspiring DevSecOps Engineer
 
-Jako początkujący inżynier łączę świat **Infrastruktury (DevOps)** z **Bezpieczeństwem (Security)**. Automatyzuję, wdrażam i zabezpieczam.
+Jako początkujący DevSecOps łączę świat **Infrastruktury (DevOps)** z **Bezpieczeństwem (Security)**. Automatyzuję, wdrażam i zabezpieczam.
 
 
 
