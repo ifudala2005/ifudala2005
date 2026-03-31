@@ -1,24 +1,28 @@
 # Cześć, tu Igor! 👋
 
-🛡️ **Aspiring IT Specialist / Python Learner**
+🚀 **Aspiring Junior DevOps Engineer | Cloud & Automation Enthusiast**
 
-Szczerze i bez owijania w bawełnę: jestem na początku swojej drogi w IT. Aktualnie ostro skupiam się na nauce Pythona, logicznego myślenia i budowaniu solidnych podstaw. Moim głównym celem na ten rok jest znalezienie pierwszej pracy w branży (np. Helpdesk / Service Desk), żeby zderzyć się z realnymi problemami i zdobyć komercyjne doświadczenie.
+Szczerze i bez owijania w bawełnę: jestem na początku swojej drogi w kierunku DevOps i inżynierii chmurowej. Aktualnie ostro skupiam się na automatyzacji, konteneryzacji i budowaniu infrastruktury jako kodu (IaC). Moim głównym celem na ten rok jest znalezienie pierwszej pracy jako Młodszy Inżynier DevOps, żeby zderzyć się z realnymi wyzwaniami, dużymi środowiskami i zdobyć komercyjne doświadczenie.
 
-### 🔧 Mój Tech Stack
+## 🔧 Mój Tech Stack
 
-To technologie i narzędzia, których aktualnie się uczę i z których korzystam:
+Technologie i narzędzia, z którymi pracuję w moich projektach:
 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-### 🔭 Nad czym teraz pracuję?
+## 🔭 Nad czym teraz pracuję?
 
-- 🌱 Uczę się podstaw **Pythona** i uciekam z "tutorial hell" pisząc własny kod.
-- ⚙️ Ogarniam podstawy **Gita**, żeby dobrze zarządzać swoimi projektami.
-- 💻 Tworzę proste skrypty konsolowe, które automatyzują codzienne obliczenia.
+* ☁️ **Infrastructure as Code:** Buduję i wdrażam infrastrukturę chmurową na AWS przy użyciu Terraforma (HCL).
+* ⚙️ **Automatyzacja:** Tworzę autorskie skrypty w Pythonie do zarządzania systemami operacyjnymi i redukcji manualnej roboty.
+* 🐳 **Konteneryzacja:** Zamykam środowiska w kontenerach Dockera.
+* 🏃‍♂️ Uciekam z "tutorial hell" dłubiąc przy własnych, praktycznych wdrożeniach.
 
-### 📫 Kontakt
+## 📫 Kontakt
 
-[LinkedIn](TUTAJ_WKLEJ_SWOJ_LINK_DO_LINKEDIN) • [Email](mailto:TUTAJ_WPISZ_SWOJ_ADRES_EMAIL)
+[LinkedIn](https://www.linkedin.com/in/igor-fudala/) • [Email](mailto:igor.fudala2005@gmail.com)
